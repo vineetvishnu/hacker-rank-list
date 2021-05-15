@@ -140,11 +140,9 @@ form{
   text-align: center;
 }
 @media(max-width){
-	html, body{
-		overflow: hidden;
-	}
+	
 	.footer{
-		padding: 8%;
+		padding: 15 8%%;
 		
 	}
 }
