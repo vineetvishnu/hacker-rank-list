@@ -139,3 +139,12 @@ form{
   background-color: rgb(60, 60, 60);
   text-align: center;
 }
+@media(max-width){
+	html, body{
+		overflow: hidden;
+	}
+	.footer{
+		padding: 8%;
+		
+	}
+}
