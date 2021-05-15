@@ -132,6 +132,8 @@ form{
 
 
 .footer {
+	position:absolute;
+	width:100%;
   color: white;
   text-transform: capitalize;
   padding: 4% 8%;
