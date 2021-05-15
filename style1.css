@@ -139,7 +139,7 @@ form{
   background-color: rgb(60, 60, 60);
   text-align: center;
 }
-@media(max-width){
+@media(max-width: 540px){
 	
 	.footer{
 		padding: 15 8%%;
