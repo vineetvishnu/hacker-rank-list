@@ -64,7 +64,7 @@ h1{
 .header{
 	background-size: 100%;
 	color: white;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-position: centre;
 	background-attachment: scroll;
     overflow: hidden;
