@@ -154,7 +154,7 @@ a:hover{
 .footer {
   color: white;
   text-transform: capitalize;
-  padding: 4% 8%;
+  padding: 4% 8% 0px 8%;
   border-top: 2px solid rgb(94,97,100,0.9);
   background-color: rgb(60, 60, 60);
   text-align: center;
