@@ -30,7 +30,7 @@ html,body {
     border-left-width: 0.1px;
     border-bottom-width: 0;
     border-right-color:  rgb(94,97,100,0.9);
-	border-left-color:  rgb(94,97,100,0.9);
+    border-left-color:  rgb(94,97,100,0.9);
     color: floralwhite;
     text-align: center;
     padding: 14px 16px;
@@ -46,7 +46,7 @@ html,body {
     color: black;
 }
 .nav li a:link{
-	color: black;
+	color: floralwhite;
 }
 @import url('https://fonts.googleapis.com/css2?family=Inconsolatawdth,wght@147.6,394&display=swap');
 
