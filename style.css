@@ -31,7 +31,7 @@ html,body {
     border-bottom-width: 0;
     border-right-color:  rgb(94,97,100,0.9);
     border-left-color:  rgb(94,97,100,0.9);
-    color: floralwhite;
+    color: white;
     text-align: center;
     padding: 14px 16px;
 	border-radius: 7px;
@@ -46,7 +46,7 @@ html,body {
     color: black;
 }
 .nav li a:link{
-	color: floralwhite;
+	color: white;
 }
 @import url('https://fonts.googleapis.com/css2?family=Inconsolatawdth,wght@147.6,394&display=swap');
 
